@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/06/25 06:30:02.000.574,=C:\Users\desarrollo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/06/25 07:12:01.000.132,=C:\Users\desarrollo\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2017/06/25 07:13:48.000.000,C:\Users\desarrollo\Documents\Embarcadero\Studio\Projects\Unit2.dfm=C:\Users\desarrollo\Documents\Embarcadero\Studio\Projects\Data.dfm</Transaction>
+    <Transaction>2017/06/25 07:13:48.000.000,C:\Users\desarrollo\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\Users\desarrollo\Documents\Embarcadero\Studio\Projects\Data.pas</Transaction>
+    <Transaction>2017/06/25 07:14:18.000.690,C:\Users\desarrollo\Documents\Embarcadero\Studio\Projects\Unit1.fmx=C:\Users\desarrollo\Documents\Embarcadero\Studio\Projects\LPrincipal.fmx</Transaction>
+    <Transaction>2017/06/25 07:14:18.000.690,C:\Users\desarrollo\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\desarrollo\Documents\Embarcadero\Studio\Projects\LPrincipal.pas</Transaction>
+    <Transaction>2017/06/25 07:14:24.000.578,C:\Users\desarrollo\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\desarrollo\Documents\Embarcadero\Studio\Projects\Taller.dproj</Transaction>
+    <Transaction>2017/06/25 09:42:48.000.011,C:\Users\desarrollo\Documents\Embarcadero\Studio\Projects\Datas.pas=C:\Users\desarrollo\Documents\Embarcadero\Studio\Projects\Data.pas</Transaction>
+    <Transaction>2017/06/25 09:42:48.000.011,C:\Users\desarrollo\Documents\Embarcadero\Studio\Projects\Datas.dfm=C:\Users\desarrollo\Documents\Embarcadero\Studio\Projects\Data.dfm</Transaction>
+    <Transaction>2017/06/25 09:53:46.000.116,=C:\Users\desarrollo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/06/25 09:56:02.000.834,C:\Users\desarrollo\Documents\Embarcadero\Studio\Projects\MasterDetail.pas=C:\Users\desarrollo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/06/25 09:56:02.000.834,C:\Users\desarrollo\Documents\Embarcadero\Studio\Projects\MasterDetail.fmx=C:\Users\desarrollo\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile Android="990c1b0807f700000000"/>
+	</ActiveMobileDevice>
+</BorlandProject>

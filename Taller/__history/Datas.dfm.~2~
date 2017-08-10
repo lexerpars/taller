@@ -1,0 +1,25 @@
+object DataModule1: TDataModule1
+  OldCreateOrder = False
+  Height = 150
+  Width = 215
+  object Conexion: TUniConnection
+    ProviderName = 'SQL Server'
+    Port = 1433
+    Database = 'bavaria_pruebas'
+    Username = 'sa'
+    Server = '169.254.44.183'
+    LoginPrompt = False
+    Left = 72
+    Top = 48
+    EncryptedPassword = '9EFF8CFF9BFF99FF'
+  end
+  object Query: TUniQuery
+    Connection = Conexion
+    Left = 152
+    Top = 64
+  end
+  object SQLServerUniProvider1: TSQLServerUniProvider
+    Left = 144
+    Top = 24
+  end
+end
